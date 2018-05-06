@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Sciency Start"
+layout: persp
+title: "An Invitation"
 categories: perspective
 author: "Atul Singh Arora"
 meta: "Perspective"
