@@ -13,8 +13,11 @@ Our vision is to make science accessible and relatable.
 
 ## Manifesto
 
-The diversity of languages.
-
+* Scientists must learn the language in which science is done. Everyone else must be told science in the language they speak.
+*  Attachment to past achievements; alternate source of knowledge; invite followers of ancient methods to make novel contributions to the current state of knowledge; way forward scientists to explore Ramanujan like ways of acquiring knowledge; easier to be a scientist harder to be a listener
+* Importance of science education for the common people
+* Universality of science, who does it who it applies to
+* Valuable resource for scientists working in different fields
 
 ## Grand Plan
 
@@ -22,7 +25,7 @@ We hope to radically increase the current scientific understanding of people wit
 
 The first step in this direction is the creation of Sciency — a journal that will contain articles published in at least two languages.
 
-We intend to diversify our means of communication to audio and video broadcasting. The articles 
+We intend to diversify our means of communication to audio and video broadcasting but we must start with articles for we need them to be the source of authenticity. 
 
 ### Sciency
 
