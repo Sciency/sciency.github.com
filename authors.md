@@ -15,7 +15,7 @@ Our vision is to make science accessible and relatable.
 
 ## Plan
 
-We hope to radically increase the current scientific understanding of people with a special emphasis on non-English speaking communities .
+We hope to radically increase the current scientific understanding of people with a special emphasis on non-English speaking communities. The first step in this direction is the creation of a journal that will contain articles published in at least two languages.
 
 | Phase | Description | Article Types | Submission Procedure |
 |:---|:--|:--|:--|:--|
