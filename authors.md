@@ -14,6 +14,8 @@ Our vision is to radically increase the current scientific understanding of peop
 
 ## Plan
 
-| Phase | Description | Status |
-|:---|:--|:--|
-| Pilot | Create a 
+| Phase | Description | Article Types | Submission Procedure |
+|:---|:--|:--|:--|:--|
+| Pilot | Create a website for hosting the journal. Define the acceptance criterion for short articles. Promote the idea and publish accepted peer-reviewed articles. | Letters | email |
+| α1 | Formalise the organisation. Find volunteers for copy-editing and promotion. Add usage statics.  Initiate meeting of requirements for promotion to a recognised journal status. | Letters | email |
+| α2 | 
