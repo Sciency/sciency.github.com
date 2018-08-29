@@ -28,7 +28,7 @@ The first step in this direction is the creation of Sciency — a journal that w
 
 We intend to diversify our means of communication to audio and video broadcasting but we must start with articles. The articles will constitute the authenticating factor.
 
-A major goal in this grand scheme would be the construction of a family of journals that are used by scientists themeselves which breaks down the paywalls the scientific community has somehow failed to do so far.
+A major goal in this grand scheme would be the construction of a family of journals that are used by scientists themeselves which breaks down the paywalls the scientific community — an unfair system that somehow we haven't been able to outsmart.
 
 ### Sciency
 
