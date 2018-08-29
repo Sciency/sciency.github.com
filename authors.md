@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Authors' Page
-permalink: /authors/
+title: About (draft)
+permalink: /draft_about/
 ---
 
 Thank you for your interest in Sciency. 
