@@ -9,10 +9,13 @@ Thank you for your interest in Sciency.
 
 ## Vision
 
-Our vision is to radically increase the current scientific understanding of people with a special emphasis on non-English speaking communities.
+Our vision is to make science accessible and relatable.
+
 
 
 ## Plan
+
+We hope to radically increase the current scientific understanding of people with a special emphasis on non-English speaking communities .
 
 | Phase | Description | Article Types | Submission Procedure |
 |:---|:--|:--|:--|:--|
@@ -21,4 +24,3 @@ Our vision is to radically increase the current scientific understanding of peop
 | α2 | Design a user-feedback system. Create an automated authors' log-in and submission area. | Letter+  | web submission |
 
 
- 
