@@ -18,6 +18,7 @@ Our vision is to make science accessible and relatable.
 * Importance of science education for the common people
 * Universality of science, who does it who it applies to
 * Valuable resource for scientists working in different fields
+* Beyond paywalls.
 
 ## Grand Plan
 
@@ -26,6 +27,8 @@ We hope to radically increase the current scientific understanding of people wit
 The first step in this direction is the creation of Sciency — a journal that will contain articles published in at least two languages.
 
 We intend to diversify our means of communication to audio and video broadcasting but we must start with articles. The articles will constitute the authenticating factor.
+
+A major goal in this grand scheme would be the construction of a family of journals that are used by scientists themeselves which breaks down the paywalls the scientific community has somehow failed to do so far.
 
 ### Sciency
 
