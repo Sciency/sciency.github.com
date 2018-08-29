@@ -25,7 +25,7 @@ We hope to radically increase the current scientific understanding of people wit
 
 The first step in this direction is the creation of Sciency — a journal that will contain articles published in at least two languages.
 
-We intend to diversify our means of communication to audio and video broadcasting but we must start with articles for we need them to be the source of authenticity. 
+We intend to diversify our means of communication to audio and video broadcasting but we must start with articles. The articles will be the differentiating factors.
 
 ### Sciency
 
