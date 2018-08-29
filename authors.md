@@ -4,4 +4,4 @@ title: Authors'
 permalink: /authors/
 ---
 
-We are 
+Thank you for your interest in Sciency. 
