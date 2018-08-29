@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About (draft)
-permalink: /draft_about/
+permalink: /draftAbout/
 ---
 
 Thank you for your interest in Sciency. 
