@@ -8,7 +8,7 @@ meta: "Perspective"
 
 What is the largest number you can think of? We may start with one, two, three and so on. We may be tempted to say that perhaps a billion billion? But then there's always a billion billion plus one. It is not too hard to see that regardless of which number we claim is the largest, we can always add one to it and make it even larger. So there doesn't exist any *largest* number. The question is ill-posed. 
 
-सबसे बड़ा आंकड़ा क्या है? हम सोचना शुरु कर सकते हैै एक, दो, तीन से। हम शायद सोच सकते हैै कि करोड़ करौड़ अच्छा 
+पार्थ ने पूछा, सबसे बड़ा आंकड़ा क्या है? हम सोचना शुरु कर सकते हैै एक, दो, तीन से, बोले माधव। हम शायद सोच सकते हैै कि करोड़ करौड़ अच्छा 
 
 Alright, fair enough, but let us anyway denote by $N_0$ the number of numbers. Yes, we just agreed upon the fact that this can't be a number, at least not in the sense we are familiar with, but can we still ask the following: Is there a number which is even larger than this? To do this, we need to come up with a way of thinking about how to compare this strange number $N_0$ with other numbers of its type.
 
